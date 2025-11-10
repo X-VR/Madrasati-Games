@@ -1,0 +1,11 @@
+{
+    "Configuration": {
+        "API": {
+            "Ocp_Apim_Subscription_Key" : "d8b3f1ef278f4622bc7b52b82de80353",
+            "Url" : "",
+            "UrlGetAssignmentsQuestionsDetails" : "https://apis.t4edu.com/gaming/GetAssignmentQuestionsForIntegration/",
+            "UrlGetQuestionsDetails" : "https://apis.t4edu.com/gaming/GetQuestionsDetailsForIntegration/",
+            "CheckUserAnswers" : "https://apis.t4edu.com/gaming/CheckUserAnswers"
+        }
+    }
+}

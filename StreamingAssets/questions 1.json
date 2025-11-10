@@ -1,0 +1,94 @@
+[
+  {
+    "QuestionId": "9B4954BF9EF167985D9DAE36DF9B69D3",
+    "QuestionTitle": "<p>&nbsp;الزاويتان الموجبة، والسالبة المشتركتان في ضلع الإنتهاء مع الزاوية (10&deg;)</p>",
+    "QuestionTypeCode": "MultipleChoice",
+    "QuestionAnswers": [
+      {
+        "AnswerId": "27EFCFA216D5602AD87A542F074F72C0",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>190</mn><mo>&#176;</mo><mo>&#32;</mo><mo>,</mo><mo>&#32;</mo><mn>170</mn><mo>&#176;</mo></math></p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "AA7271803285CF109BA0AB629C3AEAAD",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>190</mn><mo>&#176;</mo><mo>&#32;</mo><mo>,</mo><mo>&#32;</mo><mo>-</mo><mn>170</mn><mo>&#176;</mo></math></p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "9D23D78A4F316BA507A07F871ADC7C18",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>370</mn><mo>&#176;</mo><mo>&#32;</mo><mo>,</mo><mo>&#32;</mo><mn>350</mn><mo>&#176;</mo></math></p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "6B030DF0EF5AB708BBC813CFDCF64828",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>350</mn><mo>&#176;</mo><mo>&#32;</mo><mo>,</mo><mo>&#32;</mo><mn>370</mn><mo>&#176;</mo></math></p>",
+        "AnswerImage": null
+      }
+    ],
+    "QuestionImage": null
+  },
+  {
+    "QuestionId": "A0276A458C16AE077455059CC4363EC1",
+    "QuestionTitle": "<p>أياً من المعادلات القطبية التالية تمثل دائرة:</p>\n<p>(يمكن إختيار أكثر من إجابة):</p>",
+    "QuestionTypeCode": "MultipleResponse",
+    "QuestionAnswers": [
+      {
+        "AnswerId": "85DDBCD29B74C1E616A575CC9869BE3F",
+        "AnswerTitle": "<p>r=3</p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "FAB8CDE33C72EDF541ED7C4D4BB326D3",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>=</mo><mfrac><mi mathvariant=\"normal\">&#960;</mi><mn>6</mn></mfrac></math></p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "56716A21046C4F155CAE85D5F4F46401",
+        "AnswerTitle": "<p>r=-5</p>",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "9C64C3BEDF9C612324F067A5FBBD64C9",
+        "AnswerTitle": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#952;</mi><mo>=</mo><mfrac><mrow><mn>5</mn><mi>&#960;</mi></mrow><mn>6</mn></mfrac></math></p>",
+        "AnswerImage": null
+      }
+    ],
+    "QuestionImage": null
+  },
+  {
+    "QuestionId": "353D2473E7AC796043EEBA2C704022DE",
+    "QuestionTitle": "<p style=\"text-align: right;\">طلب المعلم من عمرإيجاد الإحداثيين القطبيين المساوية للنقطة&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math></p>\n<p style=\"text-align: right;\">&nbsp;حيث&nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>&#176;</mo><mo>&#8804;</mo><mi>&#952;</mi><mo>&#8804;</mo><mn>360</mn><mo>&#176;</mo></math>&nbsp;</p>\n<p style=\"text-align: right;\"><img style=\"margin-right: auto; margin-left: auto; display: block;\" src=\"https://iencontent.ien.edu.sa/Storage/Images/20170225115843682عمر.png\" width=\"329\" height=\"263\"></p>\n<p style=\"text-align: right;\">فهل إجابته صحيحة؟</p>",
+    "QuestionTypeCode": "TrueFalse",
+    "QuestionAnswers": [
+      {
+        "AnswerId": "305F37172C15041903A438703AB7460D",
+        "AnswerTitle": "صواب",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "B6B43776401E9A818F37D8126A862C71",
+        "AnswerTitle": "خطأ",
+        "AnswerImage": null
+      }
+    ],
+    "QuestionImage": null
+  },
+  {
+    "QuestionId": "AD9B3613E4996F22DF57970219A30262",
+    "QuestionTitle": "<p>طلبت المعلمة من صالحة إيجاد الصورة القطبية للعدد المركب<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>4</mn><mo>-</mo><mn>4</mn><mi>i</mi></math>&nbsp;</p>\n<p>&nbsp;</p>\n<p>فكانت إجابتها:</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://iencontent.ien.edu.sa/Storage/Images/20170228181914410صالح.png\" width=\"328\" height=\"265\"></p>\n<p>&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\">فهل إجابتها صحيحة؟</p>",
+    "QuestionTypeCode": "TrueFalse",
+    "QuestionAnswers": [
+      {
+        "AnswerId": "980DDCDCA23FC517AF079B893D83FE5C",
+        "AnswerTitle": "صواب",
+        "AnswerImage": null
+      },
+      {
+        "AnswerId": "C2961AB45F0E66D6BED84756FCC00789",
+        "AnswerTitle": "خطأ",
+        "AnswerImage": null
+      }
+    ],
+    "QuestionImage": null
+  }
+]
